@@ -1,0 +1,901 @@
+
+Turn 1:
+Current Game State:
+You find yourself in a mysterious dungeon, surrounded by ancient stone walls and flickering torches. A sense of adventure and danger fills the air. You notice a locked door ahead and a rusty key lying on a nearby table.
+
+Adventurer's Action and Thoughts:
+You approach the door and examine the key. The rusted metal creaks and the lock turns with a loud groan. The door swings open, revealing a dimly-lit chamber filled with cobwebs and dust. A faint smell of must and decay permeates the air.
+        
+        You search the room for anything that might help you unlock the door or find the key. Your eyes adjust to the dim light, and you notice several chests and lockers along the walls, each one locked and mysterious
+
+Mage's Action and Thoughts:
+Your thoughts:
+        As you stare at the ancient stone walls and flickering torches, a feeling of adventure and danger fills the air. The rusty metal key in your hand is a symbol of your quest. Your senses tingle as you imagine what might be locked away behind the mysterious doors. You begin to formulate a plan, picking out the lockers and chests that might hold the key or valuable knowledge. Your mind races, and you feel the pressure of time is on your side.
+        
+        Key
+
+Turn 2:
+Current Game State:
+You find yourself in a mysterious dungeon, surrounded by ancient stone walls and flickering torches. A sense of adventure and danger fills the air. You notice a locked door ahead and a rusty key lying on a nearby table.
+
+Adventurer's action: You approach the door and examine the key. The rusted metal creaks and the lock turns with a loud groan. The door swings open, revealing a dimly-lit chamber filled with cobwebs and dust. A faint smell of must and decay permeates the air.
+        
+        You search the room for anything that might help you unlock the door or find the key. Your eyes adjust to the dim light, and you notice several chests and lockers along the walls, each one locked and mysterious
+
+Mage's action: Your thoughts:
+        As you stare at the ancient stone walls and flickering torches, a feeling of adventure and danger fills the air. The rusty metal key in your hand is a symbol of your quest. Your senses tingle as you imagine what might be locked away behind the mysterious doors. You begin to formulate a plan, picking out the lockers and chests that might hold the key or valuable knowledge. Your mind races, and you feel the pressure of time is on your side.
+        
+        Key
+
+Adventurer's Action and Thoughts:
+Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and
+
+Mage's Action and Thoughts:
+Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+
+Turn 3:
+Current Game State:
+You find yourself in a mysterious dungeon, surrounded by ancient stone walls and flickering torches. A sense of adventure and danger fills the air. You notice a locked door ahead and a rusty key lying on a nearby table.
+
+Adventurer's action: You approach the door and examine the key. The rusted metal creaks and the lock turns with a loud groan. The door swings open, revealing a dimly-lit chamber filled with cobwebs and dust. A faint smell of must and decay permeates the air.
+        
+        You search the room for anything that might help you unlock the door or find the key. Your eyes adjust to the dim light, and you notice several chests and lockers along the walls, each one locked and mysterious
+
+Mage's action: Your thoughts:
+        As you stare at the ancient stone walls and flickering torches, a feeling of adventure and danger fills the air. The rusty metal key in your hand is a symbol of your quest. Your senses tingle as you imagine what might be locked away behind the mysterious doors. You begin to formulate a plan, picking out the lockers and chests that might hold the key or valuable knowledge. Your mind races, and you feel the pressure of time is on your side.
+        
+        Key
+
+Adventurer's action: Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and
+
+Mage's action: Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+
+Adventurer's Action and Thoughts:
+Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+
+Mage's Action and Thoughts:
+Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and
+
+Turn 4:
+Current Game State:
+You find yourself in a mysterious dungeon, surrounded by ancient stone walls and flickering torches. A sense of adventure and danger fills the air. You notice a locked door ahead and a rusty key lying on a nearby table.
+
+Adventurer's action: You approach the door and examine the key. The rusted metal creaks and the lock turns with a loud groan. The door swings open, revealing a dimly-lit chamber filled with cobwebs and dust. A faint smell of must and decay permeates the air.
+        
+        You search the room for anything that might help you unlock the door or find the key. Your eyes adjust to the dim light, and you notice several chests and lockers along the walls, each one locked and mysterious
+
+Mage's action: Your thoughts:
+        As you stare at the ancient stone walls and flickering torches, a feeling of adventure and danger fills the air. The rusty metal key in your hand is a symbol of your quest. Your senses tingle as you imagine what might be locked away behind the mysterious doors. You begin to formulate a plan, picking out the lockers and chests that might hold the key or valuable knowledge. Your mind races, and you feel the pressure of time is on your side.
+        
+        Key
+
+Adventurer's action: Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and
+
+Mage's action: Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+
+Adventurer's action: Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+
+Mage's action: Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and
+
+Adventurer's Action and Thoughts:
+Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts
+
+Mage's Action and Thoughts:
+Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts
+
+Turn 5:
+Current Game State:
+You find yourself in a mysterious dungeon, surrounded by ancient stone walls and flickering torches. A sense of adventure and danger fills the air. You notice a locked door ahead and a rusty key lying on a nearby table.
+
+Adventurer's action: You approach the door and examine the key. The rusted metal creaks and the lock turns with a loud groan. The door swings open, revealing a dimly-lit chamber filled with cobwebs and dust. A faint smell of must and decay permeates the air.
+        
+        You search the room for anything that might help you unlock the door or find the key. Your eyes adjust to the dim light, and you notice several chests and lockers along the walls, each one locked and mysterious
+
+Mage's action: Your thoughts:
+        As you stare at the ancient stone walls and flickering torches, a feeling of adventure and danger fills the air. The rusty metal key in your hand is a symbol of your quest. Your senses tingle as you imagine what might be locked away behind the mysterious doors. You begin to formulate a plan, picking out the lockers and chests that might hold the key or valuable knowledge. Your mind races, and you feel the pressure of time is on your side.
+        
+        Key
+
+Adventurer's action: Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and
+
+Mage's action: Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+       
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+
+Adventurer's action: Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+
+Mage's action: Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and
+
+Adventurer's action: Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts
+
+Mage's action: Action and thoughts:
+        
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts
+
+Adventurer's Action and Thoughts:
+Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+
+Mage's Action and Thoughts:
+Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
+        
+        Action and thoughts:
